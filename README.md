@@ -18,4 +18,5 @@ GRC-Fusion proposes a robust radar-camera fusion framework to address cross-moda
 - Release training and evaluation scripts.
 - Provide pretrained models for direct evaluation.
 
+<img width="7460" height="3310" alt="overall" src="https://github.com/user-attachments/assets/442e574d-3026-4597-9ff8-04822101098d" />
 
